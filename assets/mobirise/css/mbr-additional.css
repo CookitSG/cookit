@@ -1470,6 +1470,51 @@ section.lazy-placeholder:after {
 .cid-rFTvum8UIc .mbr-text {
   text-align: left;
 }
+.cid-rGbfJVjf9l {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rGbfJVjf9l .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rGbfJVjf9l .formoid {
+  margin: auto;
+}
+.cid-rGbfJVjf9l .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-rGbfJVjf9l .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: 0 !important;
+}
+.cid-rGbfJVjf9l a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-rGbfJVjf9l a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+@media (max-width: 768px) {
+  .cid-rGbfJVjf9l .mbr-form .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-rGbfJVjf9l .form-group,
+  .cid-rGbfJVjf9l .input-group-btn,
+  .cid-rGbfJVjf9l .input-group-btn .btn {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+@media (min-width: 769px) {
+  .cid-rGbfJVjf9l .mbr-form .row > * {
+    padding: 0 0.5rem;
+  }
+}
 .cid-rF3ziJVnWI .navbar {
   background: #ffffff;
   transition: none;
