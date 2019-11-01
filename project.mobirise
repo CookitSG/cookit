@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "menu.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -621,7 +621,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Avacado toast&nbsp;",
+                "caption": "Avocado toast&nbsp;",
                 "active": false
               },
               {
@@ -634,7 +634,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Strip Steak",
+                "caption": "Strip steak",
                 "active": false
               },
               {
@@ -673,7 +673,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "fresh cut fruits",
+                "caption": "Fresh cut fruits",
                 "active": false
               },
               {
@@ -686,7 +686,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Chinese dumping",
+                "caption": "Chinese dumpling",
                 "active": true
               }
             ]
